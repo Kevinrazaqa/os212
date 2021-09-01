@@ -1,0 +1,10 @@
+# Hello, My name is Kevin Razaqa Aulia. You can call me Kevin😊
+## welcome to my github! lets explore together with me! 😅<br>
+
+### this is my log and my repo LINK if you are interested 😊 :<br>
+> [[LOG]](https://github.com/anandafadhil/os212/blob/master/TXT/mylog.txt)<br>
+> [[REPO]](https://github.com/anandafadhil?tab=repositories)
+
+### What i interested with :
+1. Sports mostly futsal and martial arts
+2. gaming
