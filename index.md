@@ -2,8 +2,8 @@
 ## welcome to my github! lets explore together with me! 😅<br>
 
 ### this is my log and my repo LINK if you are interested 😊 :<br>
-> [[LOG]](https://github.com/anandafadhil/os212/blob/master/TXT/mylog.txt)<br>
-> [[REPO]](https://github.com/anandafadhil?tab=repositories)
+> [[LOG]](https://github.com/Kevinrazaqa/os212/blob/master/TXT/mylog.txt)<br>
+> [[REPO]](https://github.com/Kevinrazaqa?tab=repositories)
 
 ### What i interested with :
 1. Sports mostly futsal and martial arts
