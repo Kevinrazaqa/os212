@@ -14,11 +14,7 @@ ZCZC W01 5 L05 Quiz related
 ZCZC W01 100 L02 ZOOM meetings related : Zoom Class OS(monday)
 ZCZC W01 10 L06 References/Books/Documents/GSGS related : searching about linux
 ZCZC W01 35 L11 Assignment #01
-ZCZC W01 5 L31 VirtualBox: install GNU/Linux, etc.
-ZCZC W01 100 L02 ZOOM meetings related : Zoom Class OS(thursday)
-ZCZC W01 60 L12 Assignment #02
-ZCZC W01 45 L64 Helping OS Related Problems with a friend
-ZCZC W01 180 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W01 5 L31 VirtualBox: install virtualBox
 ZCZC W01 35 L13 Assignment #03
 ZCZC W01 40 L14 Assignment #04
 ZCZC W01 35 L15 Assignment #05
@@ -26,3 +22,5 @@ ZCZC W01 15 L16 Assignment #06
 ZCZC W01 10 L17 Assignment #07
 ZCZC W01 30 L18 Assignment #08
 ZCZC W01 30 L19 Assignment #09
+ZCZC W01 45 L64 Helping OS Related Problems with a friend
+ZCZC W01 5 L06 References/Books/Documents/GSGS related : searching about scripting
