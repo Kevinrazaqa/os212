@@ -26,3 +26,19 @@ ZCZC W01 30 L18 Assignment #08
 ZCZC W01 30 L19 Assignment #09
 ZCZC W01 45 L64 Helping OS Related Problems with a friend
 ZCZC W01 5 L06 References/Books/Documents/GSGS related : searching about scripting
+ZCZC W02 100 L02 Zoom Related(Monday)
+ZCZC W02 100 L11 Assignment #1
+ZCZC W02 200 L13 Assignment #3
+ZCZC W02 10 L14 Assignment #4
+ZCZC W02 15 L15 Assignment #5
+ZCZC W02 100 L02 Zoom Related(Thursday)
+ZCZC W02 70 L12 Assignment #2
+ZCZC W02 5 L16 Assignment #6
+ZCZC W02 10 L17 Assignment #7
+ZCZC W02 10 L18 Assignment #8
+ZCZC W02 15 L20 Assignment #10
+ZCZC W02 45 L64 Helping OS Related Problems with a friend
+ZCZC W02 20 L19 Assignment #9
+ZCZC W02 10 L09 Assignment in General (Assignment #11)
+ZCZC W02 10 L09 Assignment in General (Assignment #12)
+ZCZC W02 15 L09 Assignment in General (Assignment #13)
