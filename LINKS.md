@@ -1,3 +1,7 @@
+---
+layout: "layout"
+permalink: /LINKS/
+---
 # **Some Usefull Links**
 
 ### 1. [Debian 11 Installation Guide](https://www.youtube.com/watch?v=P4J_99cS7Bg&ab_channel=AverageLinuxUser)
