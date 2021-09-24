@@ -21,3 +21,9 @@ We can learn several things about C though this link, such as facts,why do we us
 through this link, we can learn and know more about the differences and the definition of encryption and decryption.
 ### 3. [C Programming Tutorial for Beginners](https://www.guru99.com/difference-encryption-decryption.html)
 through this video, we can learn about C programming in 4 hours, this video summarize almost all the important points of C programming
+
+# **Week 03**
+### 1. [File Systems in OS](https://www.geeksforgeeks.org/file-systems-in-operating-system/)
+We can learn some of the basic about file systems in operating system through this link.
+### 2. [Mounting and Unmounting](https://www.computerhope.com/unix/umount.htm)
+through this link, we can learn and know more about mounting and unmounting. This link gives us insight about what are mounting and unmounting and several syntax that we can use to mount or unmount file in operating system. 
