@@ -26,6 +26,7 @@ ZCZC W01 30 L18 Assignment #08
 ZCZC W01 30 L19 Assignment #09
 ZCZC W01 45 L64 Helping OS Related Problems with a friend
 ZCZC W01 5 L06 References/Books/Documents/GSGS related : searching about scripting
+
 ZCZC W02 100 L02 Zoom Related(Monday)
 ZCZC W02 100 L11 Assignment #1
 ZCZC W02 200 L13 Assignment #3
@@ -43,3 +44,18 @@ ZCZC W02 10 L09 Assignment in General (Assignment #11)
 ZCZC W02 10 L09 Assignment in General (Assignment #12)
 ZCZC W02 15 L09 Assignment in General (Assignment #13)
 ZCZC W02 20 L13 Assignment #3(countinue)
+
+ZCZC W03 20 L05 Quiz related
+ZCZC W03 100 L02 ZOOM meetings related (monday)
+ZCZC W03 180 L09 02 Assignment #1 read OSC10 chapter 13,14,15
+ZCZC W03 30 L09 02 Assignment #2 try W03 demos
+ZCZC W03 15 L06 References/Books/Documents/GSGS related : searching about mounting and unmounting 
+ZCZC W03 30 L09 02 Assignment #3 try previous midterm problems
+ZCZC W03 100 L02 WEEK 02 OS ZOOM meetings (thursday)
+ZCZC W03 15 L09 02 Assignment #4 
+ZCZC W03 30 L09 02 Assignment #5 
+ZCZC W03 20 L09 02 Assignment #6 update my LINKS
+ZCZC W03 10 L09 02 Assignment #7 review peer links
+ZCZC W03 10 L09 02 Assignment #8 update mylog
+ZCZC W03 20 L64 Helping OS Related Problems with a friend
+ZCZC W03 10 L09 02 Assignment #9 submit assignment
