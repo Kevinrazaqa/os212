@@ -27,3 +27,11 @@ through this video, we can learn about C programming in 4 hours, this video summ
 We can learn some of the basic about file systems in operating system through this link.
 ### 2. [Mounting and Unmounting](https://www.computerhope.com/unix/umount.htm)
 through this link, we can learn and know more about mounting and unmounting. This link gives us insight about what are mounting and unmounting and several syntax that we can use to mount or unmount file in operating system. 
+
+# **Week 04**
+### 1. [Little Endian and Big Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)
+We can learn the differences between little endian and big endian through this link.
+### 2. [Differences Between Physical and Logical Adress in Operating System ](http://www.meerutcollege.org/mcm_admin/upload/1587052623.pdf)
+Through this link we can learn and know more about the differences between logical and physical adress in operating system.
+### 3. [Pointers in C](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
+We can learn more about pointers especially in C language such as definition,how to use it, concepts,etc through this link.
