@@ -59,3 +59,19 @@ ZCZC W03 10 L09 02 Assignment #7 review peer links
 ZCZC W03 10 L09 02 Assignment #8 update mylog
 ZCZC W03 20 L64 Helping OS Related Problems with a friend
 ZCZC W03 10 L09 02 Assignment #9 submit assignment
+
+ZCZC W04 20 L05 Quiz related
+ZCZC W04 100 L02 ZOOM meetings related (Monday)
+ZCZC W04 15 L06 References/Books/Documents/GSGS related about pointers in C 
+ZCZC W04 60 L09 02 Assignment #1 read OSC10 chapter 9
+ZCZC W04 45 L09 02 Assignment #2 try W03 demos
+ZCZC W04 45 L09 02 Assignment #3 try previous midterm problems
+ZCZC W04 10 L09 02 Assignment #4 Install Package List 2 (TLPI)
+ZCZC W04 15 L09 02 Assignment #5 Fetch and Extract File ”WEEK04.tar.bz2.asc”
+ZCZC W04 100 L02 WEEK 02 OS ZOOM meetings (Thursday)
+ZCZC W04 10 L09 02 Assignment #6 add important links
+ZCZC W04 10 L09 02 Assignment #7 review links
+ZCZC W04 15 L09 02 Assignment #8 update mylog
+ZCZC W04 20 L06 References/Books/Documents/GSGS related about method in c such as malloc,etc for forum
+ZCZC W04 10 L09 02 Assignment #9 submit assignment
+ZCZC W04 15 L04 Improving my Github page
