@@ -35,3 +35,12 @@ We can learn the differences between little endian and big endian through this l
 Through this link we can learn and know more about the differences between logical and physical adress in operating system.
 ### 3. [Pointers in C](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
 We can learn more about pointers especially in C language such as definition,how to use it, concepts,etc through this link.
+
+# **Week 05**
+### 1. [Memory Management and Partition Allocation Methods](https://www.geeksforgeeks.org/partition-allocation-methods-in-memory-management/)
+We can learn more about memory management and partition allocation methods in operating system through this link.
+### 2. [How RAM Affecting Our Computer Performance ](https://www.dell.com/support/kbdoc/en-id/000129805/how-random-access-memory-ram-affects-performance)
+through this link, we can learn and know more about how RAM affecting our computer performance.
+### 3. [Page Replacement Alogrithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)
+We can learn and know more about several page replacement alogrithms through this link.
+
