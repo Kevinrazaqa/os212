@@ -11,3 +11,7 @@ ZCZC W04 myticalcat
 ZCZC W05 orelar
 ZCZC W05 nichoje
 ZCZC W05 naufalpram
+ZCZC W06 qosimd25
+ZCZC W06 pragusga25
+ZCZC W06 rahadianpanji
+

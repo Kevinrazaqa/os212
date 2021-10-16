@@ -92,3 +92,20 @@ ZCZC W05 30 L06 References/Books/Documents/GSGS about page replacement algorithm
 ZCZC W05 10 L18 Assignment #8 Update Log
 ZCZC W05 10 L19 Assignment #9 submit W05 Assignment
 ZCZC W05 45 L64 Helping OS related problem to a friend
+
+ZCZC W06 40 L05 QUIZ
+ZCZC W06 150 L06 References/Books/Documents/GSGS (Video given by pak Anwar) 
+ZCZC W06 120 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W06 100 L02 Zoom Related (thursday)
+ZCZC W06 120 L11 Assignment #1 
+ZCZC W06 60 L13 Assignment #3 
+ZCZC W06 100 L12 Assignment #2 try W06 demos
+ZCZC W06 40 L14 Assignment #4 
+ZCZC W06 30 L06 References/Books/Documents/GSGS about fork in C
+ZCZC W06 10 L15 Assignment #5 Update bookmarks links
+ZCZC W06 10 L16 Assignment #6
+ZCZC W06 10 L17 Assignment #7 Review peer links
+ZCZC W06 30 L06 References/Books/Documents/GSGS about single and multithreaded process
+ZCZC W06 10 L18 Assignment #8 Update Log
+ZCZC W06 10 L19 Assignment #9 submit W05 Assignment
+ZCZC W06 45 L64 Helping OS related problem to a friend
