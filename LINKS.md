@@ -44,7 +44,7 @@ through this link, we can learn and know more about how RAM affecting our comput
 ### 3. [Page Replacement Alogrithms](https://www.geeksforgeeks.org/page-replacement-algorithms-in-operating-systems/)
 We can learn and know more about several page replacement alogrithms through this link.
 
-# **Week 06*
+# **Week 06**
 ### 1. [Fork in C Language](https://www.geeksforgeeks.org/fork-system-call/)
 We can learn more about fork in C language through this link.
 ### 2. [Single Vs Multi threaded Process](https://samknows.one/hc/en-gb/articles/115003164305-What-is-the-difference-between-Single-and-Multi-Thread-)
