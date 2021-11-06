@@ -50,3 +50,11 @@ We can learn more about fork in C language through this link.
 ### 2. [Single Vs Multi threaded Process](https://samknows.one/hc/en-gb/articles/115003164305-What-is-the-difference-between-Single-and-Multi-Thread-)
 through this link, we can learn and know more about the differences between single and multi thread process.
 
+# **Week 07**
+### 1. [Process Synchronization in Operating System](https://www.studytonight.com/operating-system/process-synchronization)
+through this link we can learn and know more about the concept of process synchronization in operating systems.
+### 2. [Introduction to Deadlocks in Operating Systems](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+we can learn the concept and the introduction about deadlocks such as the definition,etc through this link
+### 3. [Visualization of Synchronization and Deadlocks](https://computing.dcu.ie/~humphrys/Notes/OS/synch.html)
+this link gives us some sort of visualization for us about synchronization and deadlocks. 
+
