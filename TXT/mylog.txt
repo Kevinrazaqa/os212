@@ -107,7 +107,7 @@ ZCZC W06 10 L16 Assignment #6
 ZCZC W06 10 L17 Assignment #7 Review peer links
 ZCZC W06 30 L06 References/Books/Documents/GSGS about single and multithreaded process
 ZCZC W06 10 L18 Assignment #8 Update Log
-ZCZC W06 10 L19 Assignment #9 submit W05 Assignment
+ZCZC W06 10 L19 Assignment #9 submit W06 Assignment
 ZCZC W06 45 L64 Helping OS related problem to a friend
 
 ZCZC W07 40 L05 QUIZ
@@ -124,4 +124,4 @@ ZCZC W07 10 L16 Assignment #6
 ZCZC W07 10 L17 Assignment #7 Review peer links
 ZCZC W07 30 L06 References/Books/Documents/GSGS about process synchronization
 ZCZC W07 10 L18 Assignment #8 Update Log
-ZCZC W07 10 L19 Assignment #9 submit W05 Assignment
+ZCZC W07 10 L19 Assignment #9 submit W07 Assignment
