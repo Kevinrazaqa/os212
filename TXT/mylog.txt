@@ -109,3 +109,19 @@ ZCZC W06 30 L06 References/Books/Documents/GSGS about single and multithreaded p
 ZCZC W06 10 L18 Assignment #8 Update Log
 ZCZC W06 10 L19 Assignment #9 submit W05 Assignment
 ZCZC W06 45 L64 Helping OS related problem to a friend
+
+ZCZC W07 40 L05 QUIZ
+ZCZC W07 150 L06 References/Books/Documents/GSGS (Video from pak anwar's youtube)
+ZCZC W07 120 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W07 90 L02 Zoom Related (monday)
+ZCZC W07 100 L02 Zoom Related (thursday)
+ZCZC W07 120 L11 Assignment #1
+ZCZC W07 60 L13 Assignment #3
+ZCZC W07 45 L12 Assignment #2 try W07 demos
+ZCZC W07 40 L14 Assignment #4 
+ZCZC W07 10 L15 Assignment #5 Update bookmarks links
+ZCZC W07 10 L16 Assignment #6
+ZCZC W07 10 L17 Assignment #7 Review peer links
+ZCZC W07 30 L06 References/Books/Documents/GSGS about process synchronization
+ZCZC W07 10 L18 Assignment #8 Update Log
+ZCZC W07 10 L19 Assignment #9 submit W05 Assignment
