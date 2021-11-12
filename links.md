@@ -58,3 +58,10 @@ we can learn the concept and the introduction about deadlocks such as the defini
 ### 3. [Visualization of Synchronization and Deadlocks](https://computing.dcu.ie/~humphrys/Notes/OS/synch.html)
 this link gives us some sort of visualization for us about synchronization and deadlocks. 
 
+# **Week 08**
+### 1. [Linux From Scratch](https://www.linuxfromscratch.org/)
+through this link we can learn and know more about Linux From Scratch (LFS) and help us with step-by-step instructions for building our own custom Linux system, entirely from source code.
+### 2. [Intoduction and Explanation About Linux From Scratch](https://en.wikipedia.org/wiki/Linux_From_Scratch)
+we can learn the concept and the introduction about linux from scratch(LFS).
+### 3. [CPU Scheduling in Operating Systems](https://www.guru99.com/cpu-scheduling-algorithms.html#:~:text=CPU%20Scheduling%20is%20a%20process,the%20ready%20queue%20for%20execution.)
+We can learn more about CPU scheduling in our operating systems through this link. 
