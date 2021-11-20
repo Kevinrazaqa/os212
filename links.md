@@ -65,3 +65,11 @@ through this link we can learn and know more about Linux From Scratch (LFS) and 
 we can learn the concept and the introduction about linux from scratch(LFS).
 ### 3. [CPU Scheduling in Operating Systems](https://www.guru99.com/cpu-scheduling-algorithms.html#:~:text=CPU%20Scheduling%20is%20a%20process,the%20ready%20queue%20for%20execution.)
 We can learn more about CPU scheduling in our operating systems through this link. 
+
+# **Week 09**
+### 1. [What is RAID in Operating Systems](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)
+through this link we can learn about the introduction of RAID(Redundant Arrays of Independent Disks).
+### 2. [Type and Levels of RAID](https://www.javatpoint.com/what-is-raid)
+we can learn more about RAID such as the how it works,etc through this link
+### 3. [Levels of RAID](https://www.prepressure.com/library/technology/raid)
+this link gives us the information about several levels in RAID, the advatages and also the disadvantages. 
