@@ -73,3 +73,11 @@ through this link we can learn about the introduction of RAID(Redundant Arrays o
 we can learn more about RAID such as the how it works,etc through this link
 ### 3. [Levels of RAID](https://www.prepressure.com/library/technology/raid)
 this link gives us the information about several levels in RAID, the advatages and also the disadvantages. 
+
+# **Week 10**
+### 1. [Principle of I/O System in Operating Systems](https://gcallah.github.io/OperatingSystems/IOSoftware.html)
+through this link we can learn and know more about the principle of I/O systems in our operating system.
+### 2. [I/O Systems](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/13_IOSystems.html)
+we can learn the concept and the concept about I/O systems.
+### 3. [Input Output in Operating System](https://www.w3schools.in/operating-system-tutorial/input-output/)
+We can learn more about input output in our operating systems through this link. 
