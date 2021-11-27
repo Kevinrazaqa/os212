@@ -155,3 +155,18 @@ ZCZC W09 10 L17 Assignment #7 Review peer links
 ZCZC W09 30 L06 References/Books/Documents/GSGS about RAID
 ZCZC W09 10 L18 Assignment #8 Update Log
 ZCZC W09 10 L19 Assignment #9 submit W08 Assignment
+
+ZCZC W10 40 L05 QUIZ
+ZCZC W10 150 L06 References/Books/Documents/GSGS (Video from pak anwar's youtube)
+ZCZC W10 120 L80 Waching: Movie, YouTube, TV, etc.
+ZCZC W10 100 L02 Zoom Related (thursday)
+ZCZC W10 120 L11 Assignment #1
+ZCZC W10 60 L13 Assignment #3
+ZCZC W10 45 L12 Assignment #2 try W10 demos
+ZCZC W10 40 L14 Assignment #4
+ZCZC W10 10 L15 Assignment #5 Update bookmarks links
+ZCZC W10 10 L16 Assignment #6
+ZCZC W10 10 L17 Assignment #7 Review peer links
+ZCZC W10 30 L06 References/Books/Documents/GSGS about I/O
+ZCZC W10 10 L18 Assignment #8 Update Log
+ZCZC W10 10 L19 Assignment #9 submit W10 Assignment
